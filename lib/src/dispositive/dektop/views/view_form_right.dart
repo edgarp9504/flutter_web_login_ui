@@ -11,7 +11,7 @@ class ViewFormRight extends StatelessWidget {
       // ignore: prefer_const_literals_to_create_immutables
       children: [
         const Text(
-          'Sign In to your Account',
+          'Create Account',
           style: TextStyle(fontSize: 40, fontWeight: FontWeight.bold),
         ),
         const Padding(

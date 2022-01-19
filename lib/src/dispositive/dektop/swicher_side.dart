@@ -33,7 +33,7 @@ class _SwitcherSideState extends State<SwitcherSide> {
       alignment: Alignment(widget._animation.value, 0.0),
       child: Container(
         height: size.height,
-        width: size.width * 0.37 + widget.containerWidth,
+        width: size.width * 0.37,
         decoration: BoxDecoration(
           image: DecorationImage(
             image: const AssetImage('assets/background-montails.jpg'),
